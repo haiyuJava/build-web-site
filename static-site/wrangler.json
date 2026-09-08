@@ -1,0 +1,10 @@
+{
+  "name": "sites-project",
+  "account_id": "ccb181d986c6b0674b2e3f349efc0ba9",
+  "compatibility_date": "2026-09-08",
+  "workers_dev": true,
+  "assets": {
+    "directory": "./public",
+    "not_found_handling": "404-page"
+  }
+}
