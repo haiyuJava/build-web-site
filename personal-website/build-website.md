@@ -1,3 +1,8 @@
+> 新版静态页面已改用仓库根目录的 `publish.ps1` 发布。
+> 请在 `C:\Users\123\IdeaProjects\build-web-site` 中执行：
+> `powershell -NoProfile -ExecutionPolicy Bypass -File .\publish.ps1`
+> 详情见 `../static-site/README.md`。以下命令保留用于旧版框架项目；执行旧命令会将线上页面覆盖回旧版。
+
 1. 注册 Cloudflare：
 
    打开 Cloudflare 注册页面 (https://dash.cloudflare.com/sign-up)，用邮箱注册并验证。
